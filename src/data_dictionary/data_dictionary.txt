@@ -1,0 +1,8 @@
+Table_name: xyz		
+About xyz: description
+
+Here's the connected datatype, column name and its description. 
+
+datatype	column_name	description
+Boolean (0 or 1)	active_fl			Indicates whether the record is active (1) or inactive (0). 
+String	account_id			A unique identifier for the customer's account within the company's system. 
