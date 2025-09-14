@@ -1,0 +1,9 @@
+evaluation:
+  eval_file: "evaluation/eval_sql.xlsx"
+  output_eval_pipeline_results_file: "evaluation/overall_eval_results.xlsx"
+  output_eval_pipeline_metrics_file: "evaluation/overall_eval_metrics.json"
+  semantic_sql_equivalence_result_file: "evaluation/eval_sql_results.xlsx"
+  execution_results_equivalence_result_file: "evaluation/eval_execution_sql_results.xlsx"
+  app_name: "text_to_sql"
+  user_id: "eval_user"
+  
